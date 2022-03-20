@@ -10,5 +10,5 @@ takes in parameters to add timestamps or idk*/
 
 .headers on
 .mode csv
-select ean, timestamp, pagenumber, highlighttext, note 
+select ean as "File", timestamp as Timestamp, pagenumber as PageNumber, highlighttext as HighlightedText, note as UserNote 
 from annotations;
