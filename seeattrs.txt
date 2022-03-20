@@ -1,0 +1,2 @@
+_id,ean,luid,lastupdated,bookdna,startlocation,enlocation,note,highlighttext,pagenumber,timestamp,hasNote,ishighlighted,color,sync_status
+1,"file:///media/Books/Colorless Tsukuru Tazaki and His Years of Pilgrimage A novel by Murakami Haruki (z-lib.org).epub",1703401334447315467,1597993396799,1,text/part0011.html#point(/1/4/279/3:541),text/part0011.html#point(/1/4/279/4/1:36),,"You need to use the thread of logic, as best you can, to skillfully sew onto yourself everything that's worth living for",65,"8/21/2020 00:03",0,1,0x8be58f,1

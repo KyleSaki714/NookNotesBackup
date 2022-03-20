@@ -8,4 +8,7 @@ to your notes system
 
 takes in parameters to add timestamps or idk*/
 
-SELECT * FROM annotations;
+.headers on
+.mode csv
+select ean, timestamp, pagenumber, highlighttext, note 
+from annotations;
